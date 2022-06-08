@@ -132,8 +132,8 @@ packages:
     hackage: reactive-banana-1.2.1.0
 snapshots:
 - completed:
-    size: 567669
-    url: https://raw.githubusercontent.com/commercialhaskell/stackage-snapshots/master/lts/17/12.yaml
-    sha256: facf6cac73b22a83ca955b580a98a7a09ed71f8f974c7a55d28e608c23e689a9
+    size: 590100
+    url: https://raw.githubusercontent.com/kxkx5150/stackage-snapshots/master/lts/18/28.yaml
+    sha256: 428ec8d5ce932190d3cbe266b9eb3c175cd81e984babf876b64019e2cbe4ea68
   original:
-    url: https://raw.githubusercontent.com/commercialhaskell/stackage-snapshots/master/lts/17/12.yaml
+    url: https://raw.githubusercontent.com/kxkx5150/stackage-snapshots/master/lts/18/28.yaml
